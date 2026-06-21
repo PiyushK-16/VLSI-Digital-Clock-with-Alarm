@@ -107,12 +107,12 @@ The design was verified through simulation using EDA Playground.
 
 ### Alarm Trigger
 
-![Alarm Trigger](images/alarm_trigger/alarm_trigger1.png)
-![](images/alarm_trigger/alarm_trigger2.png)
+![Alarm Trigger](images/alarm_trigger/alarm_trigger_1.png)<br>
+![Alarm Trigger](images/alarm_trigger/alarm_trigger_2.png)
 
 ### Complete System Waveform
 
-![Complete System Waveform](images/completewaveform/complete_system_waveform.png)
+![Complete System Waveform](images/completewaveform/complete_waveform.png)
 
 ---
 
