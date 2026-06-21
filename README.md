@@ -99,19 +99,20 @@ The design was verified through simulation using EDA Playground.
 
 ### Clock Divider
 
-images/clock_divider_waveform.png
+![clock divider](images/clock_divider/clock_divider_waveform.png)
 
 ### Minute Rollover
 
-images/minute_rollover.png
+![minute rollover](images/minute_rollover/minute_rollover.png)
 
 ### Alarm Trigger
 
-images/alarm_trigger.png
+![Alarm Trigger](images/alarm_trigger/alarm_trigger1.png)
+![](images/alarm_trigger/alarm_trigger2.png)
 
 ### Complete System Waveform
 
-images/complete_system_waveform.png
+![Complete System Waveform](images/completewaveform/complete_system_waveform.png)
 
 ---
 
